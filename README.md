@@ -1,6 +1,20 @@
-# journey-to-the-clouds
+# 🌩️ Journey to the Clouds
 
 # 🏆 My learning repo - where I note, lab, and track towards AWS &amp; Azure cloud certifications. 
+
+This is a personal, hands-on journey through AWS and Azure certifications — with practical scripts, notes, and project logs along the way.
+
+---
+
+## ✅ Certification Progress Summary
+
+| Certification | Completion |
+|---------------|------------|
+| AWS Cloud Practitioner | ![Progress](https://progress-bar.dev/1/?title=completed) |
+| AWS Solutions Architect – Associate | ![Progress](https://progress-bar.dev/1/?title=completed) |
+| Microsoft AZ-104 | ![Progress](https://progress-bar.dev/1/?title=completed) |
+
+> 💡 Progress updates manually as I check off tasks below.
 
 ---
 
