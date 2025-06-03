@@ -10,9 +10,9 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 
 | Certification | Completion |
 |---------------|------------|
-| AWS Cloud Practitioner | ![Progress](https://progress-bar.dev/1/?title=completed) |
-| AWS Solutions Architect – Associate | ![Progress](https://progress-bar.dev/1/?title=completed) |
-| Microsoft AZ-104 | ![Progress](https://progress-bar.dev/1/?title=completed) |
+| AWS Cloud Practitioner | 0% |
+| AWS Solutions Architect – Associate | 0% |
+| Microsoft AZ-104 | 0% |
 
 > 💡 Progress updates manually as I check off tasks below.
 
