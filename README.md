@@ -22,7 +22,7 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 
 ### ✅ Cloud Concepts
 - [X] Define the [benefits of cloud computing](https://github.com/jonriggert/journey-to-the-clouds/blob/3e2b3ee095315385aaf765d8221157878cbe54a2/AWS/CLF-C02%20Cloud%20Practitioner/Notes/benefits-of-cloud-computing.md)
-- [ ] Compare cloud deployment models (Public, Private, Hybrid)
+- [X] Compare cloud deployment models (Public, Private, Hybrid)
 - [ ] Understand cloud service models (IaaS, PaaS, SaaS)
 - [ ] Understand AWS global infrastructure (Regions, AZs, Edge)
 
@@ -124,6 +124,11 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 - [ ] Create log alerts
 - [ ] Set up Recovery Services Vault
 - [ ] Configure backup policy
+
+# Advanced Concepts
+- [ ] Terraform
+- [ ] Docker + Kubernetes
+- [ ] CI/CD Pipelines
 
 ---
 
