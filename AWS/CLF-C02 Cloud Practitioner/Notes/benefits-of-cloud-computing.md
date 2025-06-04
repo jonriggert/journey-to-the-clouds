@@ -7,5 +7,5 @@
 5. High Availability and Fault Tolerance (with built in redundancy)
 6. Security with included features like encryption
 7. Speed and Agility (no waiting on hardware, setup different environments)
-8. Cost optimzed (reserved instances & spot instances)
+8. Cost optimzed ([reserved instances & spot instances](https://github.com/jonriggert/journey-to-the-clouds/blob/fa63ee66e4b334be3ddc6fb0b0f6c8a65ace6510/AWS/CLF-C02%20Cloud%20Practitioner/Notes/reserved-vs-spot-instances.md))
 9. Managed Services (no need for patching, backups, or maintenance)
