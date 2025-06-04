@@ -10,7 +10,7 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 
 | Certification | Completion |
 |---------------|------------|
-| AWS Cloud Practitioner | 0% |
+| AWS Cloud Practitioner | 32% |
 | AWS Solutions Architect – Associate | 0% |
 | Microsoft AZ-104 | 0% |
 
@@ -27,7 +27,7 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 - [ ] Understand AWS global infrastructure (Regions, AZs, Edge)
 
 ### ✅ AWS Core Services
-- [ ] Navigate the AWS Console
+- [X] Navigate the AWS Console
 - [ ] Navigate using AWS CLI
 - [ ] Launch an EC2 instance (Console)
 - [ ] Terminate an EC2 instance (Console)
@@ -39,12 +39,12 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 - [ ] Set S3 permissions (public, private, bucket policy)
 
 ### ✅ IAM & Security
-- [ ] Create IAM users
-- [ ] Create IAM groups
-- [ ] Add users to groups
-- [ ] Attach managed policies to groups
-- [ ] Enable MFA on root and IAM users
-- [ ] Configure a billing alert or budget
+- [X] Create IAM users
+- [X] Create IAM groups
+- [X] Add users to groups
+- [X] Attach managed policies to groups
+- [X] Enable MFA on root and IAM users
+- [X] Configure a billing alert or budget
 - [ ] Understand shared responsibility model
 
 ### ✅ Billing & Support
