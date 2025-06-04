@@ -21,7 +21,7 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 ## 🟦 AWS Certified Cloud Practitioner (CLF-C02)
 
 ### ✅ Cloud Concepts
-- [ ] Define the benefits of cloud computing
+- [X] Define the [benefits of cloud computing]()
 - [ ] Compare cloud deployment models (Public, Private, Hybrid)
 - [ ] Understand cloud service models (IaaS, PaaS, SaaS)
 - [ ] Understand AWS global infrastructure (Regions, AZs, Edge)
