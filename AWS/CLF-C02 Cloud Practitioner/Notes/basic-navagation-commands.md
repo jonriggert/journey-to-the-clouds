@@ -3,6 +3,7 @@
 ## Setup to setup credentials and store keys securely (avoid using root)
 
 aws configure
+aws configure list
 
 ## List all S3 buckets
 
