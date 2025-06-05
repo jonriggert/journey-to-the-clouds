@@ -10,7 +10,7 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 
 | Certification | Completion |
 |---------------|------------|
-| AWS Cloud Practitioner | 36% |
+| AWS Cloud Practitioner | 40% |
 | AWS Solutions Architect – Associate | 0% |
 | Microsoft AZ-104 | 0% |
 
@@ -23,7 +23,7 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 ### ✅ Cloud Concepts
 - [X] Define the [benefits of cloud computing](https://github.com/jonriggert/journey-to-the-clouds/blob/3e2b3ee095315385aaf765d8221157878cbe54a2/AWS/CLF-C02%20Cloud%20Practitioner/Notes/benefits-of-cloud-computing.md)
 - [X] Compare [cloud deployment models](https://github.com/jonriggert/journey-to-the-clouds/blob/ef333e464e55880e0ef43897329a90e2c9ea2954/AWS/CLF-C02%20Cloud%20Practitioner/Notes/depoyment-models-public-private-hybrid.md) (Public, Private, Hybrid)
-- [ ] Understand cloud service models (IaaS, PaaS, SaaS)
+- [X] Understand [cloud service models](https://github.com/jonriggert/journey-to-the-clouds/blob/91ca4231dec73588c7016819acb738acab5efc26/AWS/CLF-C02%20Cloud%20Practitioner/Notes/cloud-service-models.md) (IaaS, PaaS, SaaS)
 - [ ] Understand AWS global infrastructure (Regions, AZs, Edge)
 
 ### ✅ AWS Core Services
