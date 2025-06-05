@@ -10,7 +10,7 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 
 | Certification | Completion |
 |---------------|------------|
-| AWS Cloud Practitioner | 44% |
+| AWS Cloud Practitioner | 48% |
 | AWS Solutions Architect – Associate | 0% |
 | Microsoft AZ-104 | 0% |
 
@@ -28,7 +28,7 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 
 ### ✅ AWS Core Services
 - [X] Navigate the AWS Console
-- [ ] Navigate using AWS CLI
+- [X] [Navigate using AWS CLI](https://github.com/jonriggert/journey-to-the-clouds/blob/main/AWS/CLF-C02%20Cloud%20Practitioner/Notes/basic-navagation-commands.md)
 - [ ] Launch an EC2 instance (Console)
 - [ ] Terminate an EC2 instance (Console)
 - [ ] Launch an EC2 instance (CLI)
