@@ -129,6 +129,7 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 - [ ] Terraform
 - [ ] Docker + Kubernetes
 - [ ] CI/CD Pipelines
+- [ ] Okta
 
 ---
 

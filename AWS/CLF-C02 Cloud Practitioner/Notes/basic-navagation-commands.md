@@ -8,7 +8,12 @@ aws configure list
 ## List all S3 buckets
 
 aws s3 ls
+aws s3 ls s3://<s3name/folderstructure>
 aws s3api list-buckets --output table
+
+## Copy files to S3
+
+aws s3 cp <sourcefolderstructure> <destinationfolderstructure>
 
 ## List all IAM users or groups
 
