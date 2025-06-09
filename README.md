@@ -39,10 +39,10 @@ This is a personal, hands-on journey through AWS and Azure certifications — wi
 - [ ] Set S3 permissions (public, private, bucket policy)
 
 ### ✅ IAM & Security
-- [X] Create IAM users
-- [X] Create IAM groups
-- [X] Add users to groups
-- [X] Attach managed policies to groups
+- [ ] Create IAM users
+- [ ] Create IAM groups
+- [ ] Add users to groups
+- [ ] Attach managed policies to groups
 - [X] Enable MFA on root and IAM users
 - [X] Configure a billing alert or budget
 - [ ] Understand shared responsibility model
