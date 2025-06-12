@@ -1,0 +1,25 @@
+# Day 4: CloudWatch Metrics and Alarms
+
+## ✅ Tasks Completed
+- Launched a Free Tier EC2 instance (`cloudwatch-demo-ec2`)
+- Enabled CloudWatch default monitoring for EC2
+- Created a CloudWatch alarm for CPU utilization > 20%
+- Verified metrics started populating after instance uptime
+- Explored the CloudWatch console (Metrics, Alarms, Logs preview)
+- Terminated the instance after testing to conserve Free Tier usage
+
+## 🔎 Alarm Summary
+- Alarm name: `HighCPUUsageAlarm-cloudwatch-demo-ec2`
+- Metric: `CPUUtilization`
+- Threshold: > 20%
+- Evaluation period: 1 x 5-minute window
+- Action: No SNS alert configured (yet)
+
+## 💡 What I Learned
+- CloudWatch provides built-in EC2 metrics for free
+- Some metrics (like `StatusCheckFailed`) may take time to appear
+- “Name” is just a tag with the key `Name` — not a unique property
+- Tagging, naming, and teardown are critical for real-world ops
+
+## 💭 Advice for Future Interns
+> Always terminate your EC2 instances unless you're actively using them. Free Tier is generous — but it's not infinite.
