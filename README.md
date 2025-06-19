@@ -1,5 +1,9 @@
 # 🌩️ Journey to the Clouds
 
+<figure>
+  <img src="assets/Journey_to_the_Clouds.png" alt="Journey to the Clouds">
+</figure>
+
 # 🏆 My learning repo - where I note, lab, and track towards AWS &amp; Azure cloud certifications. 
 
 This is a personal, hands-on journey through AWS and Azure certifications — with practical scripts, notes, and project logs along the way.
