@@ -1,8 +1,6 @@
 # 🌩️ Journey to the Clouds
 
-<figure>
-  <img src="assets/JourneytotheClouds.png" alt="Journey to the Clouds">
-</figure>
+<img src="assets/JourneytotheClouds.png" alt="Journey to the Clouds">
 
 # 🏆 My learning repo - where I note, lab, and track towards AWS &amp; Azure cloud certifications. 
 
